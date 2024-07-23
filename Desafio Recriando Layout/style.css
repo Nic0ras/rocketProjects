@@ -1,3 +1,6 @@
+/* NOTE: Aqui seria uma boa prática remover as linhas em branco entre as propriedades css e também remover os trechos comentados, a não ser que sejam necessários, 
+          caso contrário, pode remover eles, isso diminui o código e facilita a visualização */
+
 body {
   display: flex;
   margin: 0;
